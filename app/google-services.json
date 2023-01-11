@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909985350939",
+    "firebase_url": "https://uzbekgram-d2b7c-default-rtdb.firebaseio.com",
+    "project_id": "uzbekgram-d2b7c",
+    "storage_bucket": "uzbekgram-d2b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909985350939:android:a13cf56944c62fb2b7ffbe",
+        "android_client_info": {
+          "package_name": "com.iskandar.uzbekgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909985350939-ndocdjjjo29675o5ijuf9ocfu25qnr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WclA5KZumLgPuyelIqUubGtPGYoujfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909985350939-ndocdjjjo29675o5ijuf9ocfu25qnr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
